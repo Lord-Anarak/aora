@@ -102,4 +102,4 @@ The project follows a modular code architecture, promoting reusability and scala
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/Lord-Anarak)
+Made with ❤️ by [Lord-Anarak](https://github.com/Lord-Anarak)
