@@ -1,6 +1,17 @@
-# Aora Video Sharing Application
+<div align="center">
+  <br />
+      <img src="https://i.postimg.cc/1Rp4F4xg/Aora-BG.png" alt="Project Banner">
+    </a>
+  <br />
 
-Aora is a dynamic video sharing application where users can sign up, log in, log out, save videos, and upload their own videos. Built with React Native and powered by Appwrite, Aora offers a seamless and engaging user experience.
+  <h3 align="center">Aora Video Sharing Applicationp</h3>
+
+   <div align="center">
+     Aora is a dynamic video sharing application where users can sign up, log in, log out, save videos, and upload their own videos. Built with React Native and powered by Appwrite, Aora offers a seamless and engaging user experience.
+    </div>
+</div>
+
+
 
 ## Download
 
