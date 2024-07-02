@@ -57,7 +57,7 @@ Follow these steps to set up and run the project locally.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/aora-video-sharing-app.git
+   git clone https://github.com/Lord-Anarak/aora.git
    cd aora-video-sharing-app
    ```
 
