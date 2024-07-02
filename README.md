@@ -2,6 +2,11 @@
 
 Aora is a dynamic video sharing application where users can sign up, log in, log out, save videos, and upload their own videos. Built with React Native and powered by Appwrite, Aora offers a seamless and engaging user experience.
 
+## Download
+
+[Download the latest APK]([https://github.com/yourusername/aora-video-sharing-app/releases/download/v1.0.0/aora.apk](https://github.com/Lord-Anarak/aora/releases/download/v1.0/aora.apk))
+
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React Native
