@@ -4,7 +4,7 @@
     </a>
   <br />
 
-  <h3 align="center">Aora Video Sharing Applicationp</h3>
+  <h3 align="center">Aora Video Sharing Application</h3>
 
    <div align="center">
      Aora is a dynamic video sharing application where users can sign up, log in, log out, save videos, and upload their own videos. Built with React Native and powered by Appwrite, Aora offers a seamless and engaging user experience.
