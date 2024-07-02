@@ -4,7 +4,7 @@ Aora is a dynamic video sharing application where users can sign up, log in, log
 
 ## Download
 
-[Download the latest APK]([https://github.com/yourusername/aora-video-sharing-app/releases/download/v1.0.0/aora.apk](https://github.com/Lord-Anarak/aora/releases/download/v1.0/aora.apk))
+[Download the latest APK](https://github.com/Lord-Anarak/aora/releases/download/v1.0/aora.apk)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
